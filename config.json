@@ -1,0 +1,12 @@
+{
+  "source_folder": "sample_files",
+  "extensions": {
+    "images":     [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg"],
+    "documents":  [".pdf", ".docx", ".doc", ".txt", ".md"],
+    "data":       [".csv", ".json", ".xlsx", ".xls", ".parquet"],
+    "code":       [".py", ".js", ".html", ".css", ".ipynb"],
+    "videos":     [".mp4", ".mov", ".avi", ".mkv"],
+    "audio":      [".mp3", ".wav", ".flac"]
+  }
+}
+

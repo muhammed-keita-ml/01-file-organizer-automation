@@ -20,3 +20,9 @@ In real ML systems, raw datasets must be cleaned and organized first.
 ```bash
 python organizer.py
 ```
+
+## License
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
+
+© 2025 [YOUR FULL NAME] — github.com/muhammed-keita-ml 

@@ -1,0 +1,6 @@
+audio.mp3 -> audio/
+dataset.csv -> data/
+notes.txt -> documents/
+report.pdf -> documents/
+script.py -> code/
+test_image.jpg -> images/
